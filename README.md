@@ -4,7 +4,7 @@ These files are for use with the Introduction to AWS course.
 
 Instructions on how to use the files are within the course:
 
-http://link-to-the-course.com
+https://www.udemy.com/learn-amazon-web-services-the-complete-introduction
 
 For more information see:
 
